@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+in this application you can play single or with your friend.
 
-This project is a starting point for a Flutter application.
+![xo](https://user-images.githubusercontent.com/57181709/189359461-c40df7ef-c7ca-45a2-9c44-169fee421f70.PNG)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The winner message will appear if you beat your friend or your phone 
+
+![xo0](https://user-images.githubusercontent.com/57181709/189359823-1a830bed-0ed0-460c-807a-11c8b158965b.PNG)
+
+This application addaptive with IOS, Android , Web or desktop and you can play in land scape mode or portraite mode.
+
+![xo1](https://user-images.githubusercontent.com/57181709/189360593-9758964c-6ed6-4bef-a489-e725083eab82.PNG)
